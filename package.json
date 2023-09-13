@@ -1,0 +1,22 @@
+{
+  "name": "javascript-classes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Schlomo-khalidi/javascriptclasses.git"
+  },
+  "keywords": [
+    "javascript-classes"
+  ],
+  "author": "Allan Munene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Schlomo-khalidi/javascriptclasses/issues"
+  },
+  "homepage": "https://github.com/Schlomo-khalidi/javascriptclasses#readme"
+}
